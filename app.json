@@ -1,6 +1,6 @@
 {
     "name": "Naughty Amdi",
-    "description": "Naughty Amdi is a 18+ chat bot for WhatsApp. Makes it horny and fun to use Whatsapp.",
+    "description": "Naughty AMDI é um bot de 18+ bate-papo para o WhatsApp. Torna-o tesão e divertido usar whatsapp.",
     "logo": "https://i.ibb.co/NYWf8Nw/Naughty-Amdi.png",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Queen Amdi", "Naughty Amdi"],
     "repository": "https://github.com/agentnox/amdabbhx5652",
@@ -9,11 +9,11 @@
     "stack": "container",
     "env": {
         "AMDI_SESSION": {
-            "description": "Paste the code that got by scan QR code. | QR කේතය scan කළ පසුව ලැබෙන කේතයන්",
+            "description": "{"clientID":"U1J2RISRTX31lKvu2LPRQQ==","serverToken":"1@CRrla+XuS8AGml8/7sMwjUijdqH1BA+T0dm2vkF9zEPuC1FioPB6p5KylNeT5nexkvw22FmPGNytUg==","clientToken":"+pGvj0GDY+/ZB7c8YTHNWRgW8F//dwwznXeYizVLYHI=","encKey":"xBbx1IH3jYHN0+0dtpkvyTztRqzg9rMCNYUPSHmzKzU=","macKey":"zeKMEvEKQeWfqywxumknMUu1LxWOC91t+VF6f7a8kYU="}",
             "required": true
         },
         "SUDO": {
-            "description": "ඔබ එය භාවිතා කරන්නේ කෙසේදැයි නොදන්නේ නම් හිස්ව තබන්න! සුඩෝ මාදිලිය; ඔබගේ අංකය ජාත්‍යන්තර අංකයක් විය යුතුය. එබැවින් රටේ කේතයෙන් පසුව ඔබේ අංකය තිබිය යුතුය. උදාහරණය: 947xxxxxxxx (Sri lanka අංකය 94)",
+            "description": "969194360955",
             "required": false
         },
         "LANGUAGE": {
