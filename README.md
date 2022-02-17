@@ -90,7 +90,7 @@ Naughty Amdi bot යනු සංවර්ධනය සඳහා විවෘත
 ### සරල ක්‍රමය
 #### 01. Click Run on Repl.it (Computer users) and Run the qr generator by clicking play button.
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](```Coming soon...```)
+[![Run on Repl.it](https://replit.com/@pepesir/PEPE-SIR-Qr-code-1?v=1)](```Coming soon...```)
 
 #### ඔබ ජංගම ජංගම දුරකථන භාවිතා කරන්නෙක් නම්. Termux භාවිතා කිරීමෙන් ඔබට QR කේතය ලබා ගත හැකිය. (Android පමනි. IOS භාවිතා කරන්නන්ට repl.it button භාවිතා කළ යුතුය)
 
@@ -105,7 +105,7 @@ $ `Coming soon...`
 
 #### 02. Click Deploy button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](```Coming soon...```)
+[![Deploy](https://heroku.com/deploy?template=https://github.com/Titicojoao/NaughtyAmdi)](```Coming soon...```)
 
 සිංහල tutorial ළඟදීම එළියට එනු ඇත : https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ
 
